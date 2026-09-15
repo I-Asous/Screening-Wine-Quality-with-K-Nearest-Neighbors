@@ -20,13 +20,6 @@ The workflow includes data preparation, an 80/20 train-test split, model fitting
 KNN, evaluation, and interpretation of how modeling choices (e.g., feature scaling,
 choice of *k*, distance metric) affect results.
 
-## Repository Contents
-| File | Description |
-|---|---|
-| `<lastname>_<firstname>_assignment1.ipynb` | Main deliverable — a single reproducible Jupyter notebook containing each assignment question (as a Markdown cell), the corresponding code/analysis, and written responses. |
-| `data/` | Cleaned course copy of the UCI Wine Quality (white wine) dataset (if provided/stored locally). |
-| `README.md` | This file. |
-
 ## Requirements
 - Python 3.x
 - Jupyter Notebook / JupyterLab
